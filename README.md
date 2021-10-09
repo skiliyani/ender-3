@@ -1,1 +1,1 @@
-# ender-3
+# Creality Ender 3 Slicer Settings
